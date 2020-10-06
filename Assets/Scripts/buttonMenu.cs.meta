@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 725146e5b92d17f4680fc0335cfa9110
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tapStart: {fileID: 6938999187681420775, guid: 656444a860d0f24479fa3a8a6fc6cb20,
+      type: 3}
+  - player: {fileID: 910153063705229710, guid: fde78ef8beca4de42964e149d2677677, type: 3}
+  - animButReload: {fileID: 1887096428, guid: 15249eea93925df45a03b61785b350f2, type: 3}
+  - animButHome: {fileID: 2050772585, guid: 1753728b0ebf9a041b5efb93af9f0c36, type: 3}
+  - ControlWorld: {fileID: 478852939946854455, guid: 2f8df6a3faa43ca4e9444d905c89911e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
